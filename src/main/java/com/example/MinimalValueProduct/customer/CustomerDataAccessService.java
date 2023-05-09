@@ -1,4 +1,4 @@
-package com.example.MinimalValueProduct.Customer;
+package com.example.MinimalValueProduct.customer;
 
 import org.springframework.stereotype.Repository;
 

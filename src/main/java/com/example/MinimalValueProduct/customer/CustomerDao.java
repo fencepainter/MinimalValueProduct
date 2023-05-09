@@ -1,4 +1,4 @@
-package com.example.MinimalValueProduct.Customer;
+package com.example.MinimalValueProduct.customer;
 
 import java.util.List;
 import java.util.Optional;
